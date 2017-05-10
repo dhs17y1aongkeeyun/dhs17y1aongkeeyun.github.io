@@ -14,5 +14,5 @@
   <h2>Accomplishments</h2>
   <p>I won 2 trophies for National Wushu Championships in primary school</p>
   <h2>Projects</h2>
-  <p>I am doing <ahref="http://codein.withgoogle.com">Google Code-in 2017</a> with <a href="http://fossia.org">FOSSASIA</a>!</p>
+  <p>I am doing <ahref="http://codein.withgoogle.com">Google Code-in 2017<a> with <a href="http://fossia.org">FOSSASIA</a>!</p>
  </body>
