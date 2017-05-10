@@ -2,7 +2,7 @@
 <html>
  <head>
   <link rel="stylesheet"href="style.css"/>
-  <title>My Personal Portfolio
+  <title>My Personal Portfolio</title>
  </head>
  <body>
   <h1>Welcome to Ong Kee Yun's home on the web!</h1>
